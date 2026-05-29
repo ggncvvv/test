@@ -1,0 +1,11 @@
+
+
+screen -m -d -S cloudflared cloudflared tunnel run --token eyJhIjoiMzcwZTRmM2E4MzVmZWU3Yzk1MzBiYWJlNWYxMzBjZTgiLCJ0IjoiNmM0ZjQ2MmEtMDA3ZC00ZmQzLWEyNmItM2Y0NDNmMjIzYWNmIiwicyI6IllUZGtOamRtWm1NdE5tRXdOUzAwTjJVM0xUbG1NbUV0T1dWbVpHSXhabVEwTUdRMSJ9
+docker start chromium-browser
+
+
+
+
+
+
+
